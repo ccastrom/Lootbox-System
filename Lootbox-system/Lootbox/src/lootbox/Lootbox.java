@@ -24,11 +24,11 @@ public class Lootbox {
             System.out.println("MENÚ");
             System.out.println("==================");
 
-            System.out.println("1.- Abrir sobre");
-            System.out.println("2.- Salir");
-            System.out.println("3.- Estadisticas");
+            System.out.println("1.- Open alpha pack");
+            System.out.println("2.- Exit");
+            System.out.println("3.- Stats");
             if(contsobres>0){
-                System.out.println("Ultimo objeto obtenido: "+random);
+                System.out.println("Last object claim: "+random);
             }
             System.out.println("------------------------");
             op = input.nextInt();
