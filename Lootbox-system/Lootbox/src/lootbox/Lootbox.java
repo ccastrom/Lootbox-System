@@ -17,7 +17,7 @@ public class Lootbox {
         int cont;
         int op;
         Scanner input = new Scanner(System.in);
-        System.out.println("Welcome to the program");
+        System.out.println("Welcome to the program!");
 
         while (true) {
             System.out.println("==================");
